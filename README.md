@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 Below are the mockups for the project. Click on the images to view them in full size:
 
 ![Mockup 1](https://github.com/TaghreedTK/Food-Saver/blob/146f0c04cd68c4ab0a03a436e43488f90d2fe9b5/1.png)
-![Mockup 2](path/to/2.png)
+![Mockup 2]([path/to/2.png](https://github.com/TaghreedTK/Food-Saver/blob/146f0c04cd68c4ab0a03a436e43488f90d2fe9b5/2.png))
 ![Mockup 3](path/to/3.png)
 ![Mockup 4](path/to/4.png)
 ![Mockup 10](path/to/10.png)
